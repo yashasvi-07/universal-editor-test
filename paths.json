@@ -1,6 +1,5 @@
 {
   "mappings": [
-    "/content/universal-editor-site/:/",
-    "/content/universal-editor-site/configuration:/.helix/config.json"
+    "/content/universal-editor-test-site/:/"
   ]
 }
