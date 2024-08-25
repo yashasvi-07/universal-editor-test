@@ -10,6 +10,8 @@
  * governing permissions and limitations under the License.
  */
 
+import "@adobe/universal-editor-cors";
+
 /* eslint-env browser */
 
 /**
