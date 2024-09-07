@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p104103-e979259.adobeaemcloud.com/bin/franklin.delivery/yashasvi-07/universal-editor-test/main"
+    url: "https://author-p104103-e1433304.adobeaemcloud.com/bin/franklin.delivery/yashasvi-07/universal-editor-test/main"
     type: "markup"
     suffix: ".html"
