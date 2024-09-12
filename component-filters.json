@@ -36,5 +36,14 @@
     "components": [
       "card"
     ]
+  },
+
+  {
+    "id": "card",
+    "components": [
+      "text",
+      "title",
+      "image"
+    ]
   }
 ]
